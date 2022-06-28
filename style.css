@@ -195,7 +195,7 @@ button:hover {
   background: #f5f7fa;
 }
 
-@media (max-width: 934px) {
+@media (max-width: 1050px) {
   header {
     margin-top: 64px;
   }
@@ -213,7 +213,7 @@ button:hover {
   }
 }
 
-@media (max-width: 643px) {
+@media (max-width: 720px) {
   body {
     padding: 10px;
   }
