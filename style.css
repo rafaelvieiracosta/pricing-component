@@ -64,6 +64,7 @@ label {
   height: 32px;
   border-radius: 16px;
   background: linear-gradient(103.1deg, #068be4 7.86%, #0061a7 126.08%);
+  cursor: pointer;
 }
 
 label.active > span {
